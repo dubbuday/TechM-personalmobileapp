@@ -2,7 +2,7 @@
 
 # Language-Learning App
 
-## [PersonalMobileApp-Githublink](https://github.com/dubbuday/TechM-personalmobileapp.git)
+#### [Click me: Language-learning App Git Hub Repository](https://github.com/dubbuday/TechM-personalmobileapp.git)
 
 ### Team-members
 - Adarsh Reddy Dubbudu
